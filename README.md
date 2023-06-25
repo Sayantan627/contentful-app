@@ -6,4 +6,4 @@ Built with [Contentful](https://www.contentful.com/) Content Management System(C
 
 ### Live Site URL
 
-[@Netlify]()
+[@Netlify](https://contentful-projects.netlify.app/)
